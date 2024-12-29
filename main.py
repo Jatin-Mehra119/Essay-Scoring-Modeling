@@ -4,7 +4,7 @@ from utils import preprocess_essay_text, predict_score
 
 # Streamlit App Title and Description
 st.title("Essay Scorer Pro")
-st.write("A tool to score essays using AI. Enter text or upload a CSV file to get predictions.")
+st.write("A tool to score essays using AI. Enter text or upload a CSV file to get predictions on scale 1-6.")
 
 # Option to select input method
 input_method = st.radio(
