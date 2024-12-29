@@ -8,6 +8,7 @@ This repository contains all the notebooks, resources, and documentation used to
 - [Competition link](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2/overview)
 - [Training Notebooks](https://github.com/Jatin-Mehra119/Essay-Scoring-Modeling/tree/main/Research%20Notebooks)
 - [Final Model](https://huggingface.co/jatinmehra/Smollm2-360M-Essay-Scoring)
+- [Essay Scorer Pro APP](https://huggingface.co/spaces/jatinmehra/Essay-Scorer-Pro)
 ----------
 
 ## Project Objectives
