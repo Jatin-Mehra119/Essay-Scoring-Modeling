@@ -46,6 +46,16 @@ The **Quadratic Weighted Kappa (QWK)** metric is used to evaluate model performa
 
 ----------
 
+### **Inference Performance**
+
+-   **Batch Size:** 16
+-   **Number of Samples:** 17,000
+-   **Device:** NVIDIA Tesla P100 GPU |  Intel(R) Xeon(R) CPU @ 2.20GHz
+-   **Average Inference Time per Sample:** ~56ms
+-   **Total Inference Time:** ~16 minutes for 17,000 samples
+
+----------
+
 ## Project Roadmap
 
 ### 1. Data Preparation
