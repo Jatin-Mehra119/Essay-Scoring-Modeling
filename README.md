@@ -1,6 +1,9 @@
 
 # Automated Essay Scoring (AES) Project
 
+![image](https://github.com/user-attachments/assets/82e2e1a8-bd23-48a6-acae-f96b74bbf683)
+
+
 ## Overview
 
 This repository contains all the notebooks, resources, and documentation used to develop and evaluate models for the **Automated Essay Scoring (AES)** Kaggle competition. The project aims to build an open-source solution for automated essay evaluation to support educators and provide timely feedback to students.
